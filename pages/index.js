@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="R-Rifal..?" />
         <p className="description">
-          How was your day, Rifal? <code></code>
+          How was your day? 
         </p>
       </main>
 
