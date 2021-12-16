@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           How was your day? <code>uwu</code>
         </p>
+    <iframe width="420" height="315"
+src="https://www.youtube.com/embed/HGWwNUzjv20">
+</iframe>
       </main>
 
       <Footer />
