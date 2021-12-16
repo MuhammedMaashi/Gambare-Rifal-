@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="R-Rifal..?" />
+        <Header title="R-Rifal...?" />
         <p className="description">
-          How was your day? 
+          How was your day? <code><3</code>
         </p>
       </main>
 
