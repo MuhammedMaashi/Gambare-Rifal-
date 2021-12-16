@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="R-Rifal..?" />
         <p className="description">
-          How was your day? 
+          How was your day? <code>uwu</code>
         </p>
       </main>
 
